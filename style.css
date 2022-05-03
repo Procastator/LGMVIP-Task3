@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     padding: 23px;
-    background-color: rgb(214, 191, 57);
+    background-color: rgb(163, 45, 108);
     color: black;
     }
 
@@ -10,9 +10,9 @@ h1 {
 {
 width: 300px;
 height: 540px;
-color : rgb(255, 136, 0);
+color : rgb(134, 28, 134);
 margin: auto;
-border: 3px solid rgb(37, 96, 119);
+border: 3px solid rgb(58, 107, 220);
 border-radius: 5px;
 padding: 20px;
 }
@@ -43,5 +43,7 @@ border: 5px solid black;
     border: 1.5px solid rgb(172, 167, 167);
         border-radius: 3px;
         padding: 20px;
-        background-color: rgb(83, 161, 70);
+        background-color: rgb(177, 250, 103);
     }
+
+    
